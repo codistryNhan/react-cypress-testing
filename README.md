@@ -4,7 +4,8 @@
 
 RealWorld example app mimics a real life React + Redux production codebase with a backend API.
 We'll be using this app to practice and create our E2E/Integration tests using Cypress.
-https://github.com/gothinkster/realworld
+
+- https://github.com/gothinkster/realworld
 
 ### Getting Started
 

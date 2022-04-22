@@ -1,6 +1,18 @@
 ###
 
-### Notes
+### E2E & Integrations Test using Cypress on React-RealWorld example app
+
+RealWorld example app mimics a real life React + Redux production codebase with a backend API.
+We'll be using this app to practice and create our E2E/Integration tests using Cypress.
+
+### Getting Started
+
+- `git clone git@github.com:codistryNhan/react-cypress-testing.git`
+- `npm install`
+- `npm start`
+- Go to `http://localhost:4100` for the app
+- `npx cypress open` to launch cypress UI
+- cypress/integrations is where all our test files are located
 
 #### What is an E2E test?
 
